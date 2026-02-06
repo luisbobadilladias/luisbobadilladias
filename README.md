@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm Luis — a Data Platform Engineer and Founder focused on building modern, cloud-native data platforms.
+I'm Luis — a Data Platform Engineer focused on building modern, cloud-native data platforms.
 
 I currently work at Plub designing ingestion frameworks, orchestration workflows, and AWS Lakehouse components (S3, Glue, Athena, Lake Formation).
 
-In parallel, I’m the **Founder & Data Engineering Consultant at HappyStep Labs**, a boutique data engineering studio where I help teams design and implement strong data foundations — from ingestion and modeling to infrastructure and governance.
+In parallel, I’m the **Founder & Data Platorm Engineering Consultant at HappyStep Labs**, a boutique data engineering studio where I help teams design and implement strong data foundations — from ingestion and modeling to infrastructure and governance.
 
 My interests sit at the intersection of data engineering, cloud infrastructure, and data architecture.
 
