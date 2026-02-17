@@ -11,21 +11,21 @@ My interests sit at the intersection of data engineering, cloud infrastructure, 
 ⸻
 
 What I’m working on
-	•	Building resilient data platform foundations
-	•	Designing scalable ingestion and orchestration frameworks
-	•	Implementing Infrastructure as Code for reproducible environments
-	•	Improving data governance, metadata, lineage, and quality systems
-	•	Advising early-stage teams on pragmatic data architecture decisions
+	•	Building resilient data platform foundations  
+	•	Designing scalable ingestion and orchestration frameworks  
+	•	Implementing Infrastructure as Code for reproducible environments  
+	•	Improving data governance, metadata, lineage, and quality systems  
+	•	Advising early-stage teams on pragmatic data architecture decisions  
 
 ⸻
 
 What I enjoy
-	•	Cloud-native engineering (AWS)
-	•	Automation & CI/CD
-	•	Designing systems that age well and reduce operational friction
+	•	Cloud-native engineering (AWS)  
+	•	Automation & CI/CD  
+	•	Designing systems that age well and reduce operational friction  
 
 ⸻
 
-📬 Reach me at: luis.bobadilla.dias@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/luis-bobadilla-dias
-🌐 Portfolio: https://happystep.github.io
+📬 Reach me at: luis.bobadilla.dias@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/luis-bobadilla-dias  
+🌐 Portfolio: https://happystep.github.io  
