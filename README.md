@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m Luis — a Data Platform Engineer and independent consultant focused on building modern, cloud-native data platforms.
+I’m Luis — a Senior Data Platform Engineer and independent consultant focused on building modern, cloud-native data platforms.
 
 I currently work at Plub designing ingestion frameworks, orchestration workflows, and AWS Lakehouse components (S3, Glue, Athena, Lake Formation).
 
