@@ -4,9 +4,9 @@ I’m Luis — a Senior Data Platform Engineer and independent consultant focuse
 
 I currently work at Plub designing ingestion frameworks, orchestration workflows, and AWS Lakehouse components (S3, Glue, Athena, Lake Formation).
 
-In parallel, I work as a Data Engineering Consultant, helping startups and growing teams design and implement strong data foundations — from ingestion and modeling to infrastructure and governance.
+In parallel, I work with early-stage teams to design and implement strong technical foundations — from data platforms and backend services to infrastructure and governance.
 
-My interests sit at the intersection of data engineering, cloud infrastructure, and data architecture.
+My work sits at the intersection of data platforms, cloud architecture, and backend systems.
 
 ⸻
 
@@ -28,4 +28,4 @@ What I enjoy
 
 📬 Reach me at: luis.bobadilla.dias@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/luis-bobadilla-dias  
-🌐 Portfolio: https://happystep.github.io  
+🌐 Portfolio: https://luisbobadilladias.github.io  
