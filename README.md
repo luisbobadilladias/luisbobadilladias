@@ -10,7 +10,7 @@ My work sits at the intersection of data platforms, cloud architecture, and back
 
 ⸻
 
-What I’m working on
+What I’m working on  
 	•	Building resilient data platform foundations  
 	•	Designing scalable ingestion and orchestration frameworks  
 	•	Implementing Infrastructure as Code for reproducible environments  
