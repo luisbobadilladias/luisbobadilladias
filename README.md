@@ -20,6 +20,7 @@ What I’m working on
 ⸻
 
 What I enjoy
+
 	•	Cloud-native engineering (AWS)  
 	•	Automation & CI/CD  
 	•	Designing systems that age well and reduce operational friction  
