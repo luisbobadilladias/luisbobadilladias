@@ -1,31 +1,74 @@
 # Hi there 👋
 
-I’m Luis — a Senior Data Platform Engineer and independent consultant focused on building modern, cloud-native data platforms.
+I'm **Luis Bobadilla Dias** — a **Senior Software Engineer** specializing in **data platforms, cloud-native systems, and modern web applications**.
 
-I currently work at Plub designing ingestion frameworks, orchestration workflows, and AWS Lakehouse components (S3, Glue, Athena, Lake Formation).
+I currently work at **Plub**, designing scalable data platform foundations and AWS lakehouse infrastructure *(S3, Glue, Athena, Lake Formation)*.
 
-In parallel, I work with early-stage teams to design and implement strong technical foundations — from data platforms and backend services to infrastructure and governance.
+My work sits at the intersection of **software engineering, data systems, and cloud architecture** — building reliable systems that support analytics, applications, and product platforms.
 
-My work sits at the intersection of data platforms, cloud architecture, and backend systems.
+In parallel, through **HappyStep Labs**, I collaborate with early-stage teams to design strong technical foundations — from **data platforms and backend services to modern web and product systems**.
 
-⸻
+---
 
-What I’m working on  
-	•	Building resilient data platform foundations  
-	•	Designing scalable ingestion and orchestration frameworks  
-	•	Implementing Infrastructure as Code for reproducible environments  
-	•	Improving data governance, metadata, lineage, and quality systems  
-	•	Advising early-stage teams on pragmatic data architecture decisions  
+## 🚧 What I'm working on  
 
-⸻
+- Building scalable **data platform foundations on AWS**
+- Designing resilient **ingestion and orchestration frameworks**
+- Developing **backend and product services** (Python / TypeScript)
+- Implementing **Infrastructure as Code and cloud automation**
+- Exploring **modern web and product engineering**
 
-What I enjoy  
-	•	Cloud-native engineering (AWS)  
-	•	Automation & CI/CD  
-	•	Designing systems that age well and reduce operational friction  
+---
 
-⸻
+## ⚙️ Tech I work with
 
-📬 Reach me at: luis.bobadilla.dias@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/luis-bobadilla-dias  
-🌐 Portfolio: https://luisbobadilladias.github.io  
+### Languages  
+- Python
+- TypeScript
+
+### Backend  
+- Node.js
+- NestJS
+- Django
+- API Development
+
+### Data  
+- Apache Airflow
+- dbt
+- Lakehouse Architectures
+
+### Cloud & Infrastructure  
+- AWS
+- Terraform
+- AWS CDK
+- CI/CD Automation
+
+### Web  
+- Next.js
+- Tailwind
+
+### Mobile  
+- Flutter
+
+---
+
+## 💡 What I enjoy  
+
+- Cloud-native engineering (AWS)
+- Designing reliable systems and developer platforms
+- Automation, infrastructure, and CI/CD
+- Building software that scales from **MVP to production**
+
+---
+
+## 🌱 Projects & Labs
+
+Outside of my primary role, I build software projects through **HappyStep Labs** — a small independent software lab focused on **web, mobile, and data-driven systems**.
+
+---
+
+## 📫 Reach me at
+
+- Email: luis.bobadilla.dias@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/luis-bobadilla-dias  
+- Portfolio: https://luisbobadilladias.github.io
