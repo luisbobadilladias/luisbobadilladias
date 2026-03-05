@@ -10,7 +10,7 @@ In parallel, through **HappyStep Labs**, I collaborate with early-stage teams to
 
 ---
 
-## 🚧 What I'm working on  
+## What I'm working on  
 
 - Building scalable **data platform foundations on AWS**
 - Designing resilient **ingestion and orchestration frameworks**
@@ -20,7 +20,7 @@ In parallel, through **HappyStep Labs**, I collaborate with early-stage teams to
 
 ---
 
-## ⚙️ Tech I work with
+## Tech I work with
 
 ### Languages  
 - Python
@@ -52,7 +52,7 @@ In parallel, through **HappyStep Labs**, I collaborate with early-stage teams to
 
 ---
 
-## 💡 What I enjoy  
+## What I enjoy  
 
 - Cloud-native engineering (AWS)
 - Designing reliable systems and developer platforms
@@ -61,7 +61,7 @@ In parallel, through **HappyStep Labs**, I collaborate with early-stage teams to
 
 ---
 
-## 🌱 Projects & Labs
+## Projects & Labs
 
 Outside of my primary role, I build software projects through **HappyStep Labs** — a small independent software lab focused on **web, mobile, and data-driven systems**.
 
