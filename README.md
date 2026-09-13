@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Senior Data Platform Engineer and entrepreneur based in Paraguay.
+I'm a Senior Data Engineer and entrepreneur based in Paraguay.
 
 At Plub, I specialize in building scalable, cloud-native data platforms on AWS — designing lakehouse architectures, ingestion frameworks, orchestration workflows, and production-grade pipelines that power both operational and analytical workloads.
 
